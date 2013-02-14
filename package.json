@@ -1,0 +1,8 @@
+{
+	"name": "async-games-app",
+	"description": "Play table top games asynchronously",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "3.1.0"
+	}
+}
